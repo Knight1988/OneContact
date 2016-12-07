@@ -25,7 +25,7 @@
                    </array>-->
                    <!-- required.the URL of the file to download.-->
                    <key>url</key>
-                   <string>https://github.com/Knight1988/OneContact/releases/download/1.7.9/OneContact.ipa</string>
+                   <string>https://github.com/Knight1988/OneContact/releases/download/1.7.9/OneContact-beta2.ipa</string>
                </dict>
                <!-- display-image: the icon to display during download .-->
                <dict>
@@ -52,10 +52,10 @@
            <dict>
                <!-- required -->
                <key>bundle-identifier</key>
-               <string>dialpad2.onecontact.vn</string>
+               <string>vn.onecontact.dialpad.beta</string>
                <!-- optional (software only) -->
                <key>bundle-version</key>
-               <string>1.0.1</string>
+               <string>1.7.9</string>
                <!-- required.the download kind.-->
                <key>kind</key>
                <string>software</string>
